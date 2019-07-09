@@ -17,7 +17,7 @@ allprojects {
         jcenter()
 
         // Add these line
-        maven { url "http://maven.indeema.com:8081/artifactory/libs-release" }
+        maven { url "http://maven.indeema.com:8081/artifactory/libs-release-local" }
     }
 }
 ```
