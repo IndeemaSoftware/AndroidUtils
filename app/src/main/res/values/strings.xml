@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidUtils</string>
+
+
+    <string name="action_ok">OK</string>
+    <string name="action_cancel">Cancel</string>
+</resources>
