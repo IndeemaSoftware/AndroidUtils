@@ -48,10 +48,19 @@ Set of most common and useful android utilities:
 - MathUtils
 - ViewUtils
 
+
 ## Communication and Support
-If you encounter an issue or you have any comments or propositions with using **AndroidUtils** then you can reach us at **support@indeema.com**.
+If you encounter an issue or you have any comments or propositions with using the AndroidUtils then you can reach us in several different ways:
+
+- If you find a bug and want to tell us about it - specify it in the section [Issues](https://github.com/IndeemaSoftware/AndroidUtils/issues).
+In this section, we only consider bugs and ignore any questions relating to the support.
+
+- For additional assistance with your project - please contact us at **support@indeema.com** and specify **AndroidUtils** in the subject line.
 
 - You can also follow our news at [@IndeemaSoftware](https://twitter.com/IndeemaSoftware) or on our [blog](https://indeema.com/blog).
+
+- For further questions on cooperation, simply email us at **support@indeema.com**.
+
 
 ## License
 **AndroidUtils** works under the MIT license. For more information see [here](https://github.com/IndeemaSoftware/AndroidUtils/blob/master/LICENSE).
