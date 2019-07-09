@@ -7,28 +7,6 @@ Android Utilities for Android OS developed by [Indeema Software Inc.](https://in
 
 - Realm gradle plugin version 4.X.X
 
-
-## Integration
-
-## Add this into project build.gradle file:
-```
-allprojects {
-    repositories {
-        jcenter()
-
-        // Add these line
-        maven { url "http://maven.indeema.com:8081/artifactory/libs-release" }
-    }
-}
-```
-
-## Add this into application build.gradle file:
-```
-dependencies {
-    implementation 'com.indeema.libs:androidutils:1.0.0'
-}
-```
-
 # Boost Version History
 
 ## Version 1.0.0
