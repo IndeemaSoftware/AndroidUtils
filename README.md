@@ -54,6 +54,6 @@ If you encounter an issue or you have any comments or propositions with using **
 - You can also follow our news at [@IndeemaSoftware](https://twitter.com/IndeemaSoftware) or on our [blog](https://indeema.com/blog).
 
 ## License
-**AndroidUtils** works under the MIT license. For more information see [here](https://github.com/IndeemaSoftware/EEAndroidRealmBrowser/blob/master/LICENSE).
+**AndroidUtils** works under the MIT license. For more information see [here](https://github.com/IndeemaSoftware/AndroidUtils/blob/master/LICENSE).
 
 To know more about us and our [Mobile expertise](https://indeema.com/services/mobiledevelopment), visit our website https://indeema.com
