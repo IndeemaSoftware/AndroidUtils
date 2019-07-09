@@ -38,10 +38,13 @@ Set of most common and useful android utilities:
 - AnimationUtils
 - ColorUtils
 - ConnectivityUtils
+- DateUtils
 - DialogUtils
 - DisplayUtils
 - EncryptionUtils
+- FileUtils
 - FragmentUtils
+- ImageUtils
 - MathUtils
 - ViewUtils
 
